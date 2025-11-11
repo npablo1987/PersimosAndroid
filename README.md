@@ -36,7 +36,7 @@
 
 ## 🎯 Acerca del Proyecto
 
-**PersimosAndroid** es una aplicación móvil integral desarrollada en Kotlin que combina múltiples funcionalidades empresariales: captura de imágenes con metadatos de ubicación, gestión de presupuestos y comunicación automática vía email. Desarrollada como proyecto académico en Duoc UC, demuestra la implementación de APIs de Android y mejores prácticas de desarrollo móvil.
+**PersimosAndroid** es una aplicación móvil integral desarrollada en Kotlin que combina múltiples funcionalidades empresariales: captura de imágenes con metadatos de ubicación, gestión de presupuestos y comunicación automática vía email. Desarrollada como proyecto académico, demuestra la implementación de APIs de Android y mejores prácticas de desarrollo móvil.
 
 ### 🌟 Casos de Uso
 
