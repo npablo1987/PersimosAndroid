@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.project1912.app-mergeDebugResources-40:/layout/activity_captura_ci.xml",
+        "source": "com.example.project1912.app-main-43:/layout/activity_captura_ci.xml"
+    },
+    {
+        "merged": "com.example.project1912.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.example.project1912.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.project1912.app-mergeDebugResources-40:/layout/viewholder_items.xml",
+        "source": "com.example.project1912.app-main-43:/layout/viewholder_items.xml"
+    },
+    {
+        "merged": "com.example.project1912.app-mergeDebugResources-40:/layout/activity_register.xml",
+        "source": "com.example.project1912.app-main-43:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.project1912.app-mergeDebugResources-40:/layout/viewholder_budget.xml",
+        "source": "com.example.project1912.app-main-43:/layout/viewholder_budget.xml"
+    },
+    {
+        "merged": "com.example.project1912.app-mergeDebugResources-40:/layout/activity_report.xml",
+        "source": "com.example.project1912.app-main-43:/layout/activity_report.xml"
+    },
+    {
+        "merged": "com.example.project1912.app-mergeDebugResources-40:/layout/activity_intro.xml",
+        "source": "com.example.project1912.app-main-43:/layout/activity_intro.xml"
+    }
+]
