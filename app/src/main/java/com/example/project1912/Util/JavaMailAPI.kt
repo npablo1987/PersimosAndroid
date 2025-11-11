@@ -31,7 +31,7 @@ class JavaMailAPI(
             val session = Session.getInstance(properties, object : Authenticator() {
                 override fun getPasswordAuthentication(): PasswordAuthentication {
                     // Reemplaza con tu correo y contraseña de aplicación
-                  return PasswordAuthentication("pvilches1987@gmail.com", "xyki llbc mwfd ugoc")
+                  return PasswordAuthentication("pvilches1987@gmail.com", "")
                 }
             })
 
